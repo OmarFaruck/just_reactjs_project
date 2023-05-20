@@ -1,0 +1,12 @@
+.reglink{
+    color: rgb(252, 5, 5);
+    padding: 10px !important;
+    display: inline-block;
+}
+.orstyle{
+    display: block;
+    width: 100%;
+    padding: 1px;
+    background-color: #ec8383;
+    margin: 10px 0;
+}
